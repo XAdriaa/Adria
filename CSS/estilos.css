@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    background-color: rebeccapurple;
+}
+
+main{
+    width: 70%;
+    height: 200px;
+}
+
+li {
+    display: flex; /* Usa flexbox para alinear elementos */
+    align-items: center; /* Centra verticalmente el texto y la imagen */
+    margin-bottom: 10px; /* Espacio entre elementos de la lista */
+}
+
+.IMG {
+    margin-left: 30px; /* Distancia de 10px entre el texto y la imagen */
+    vertical-align: middle; /* Asegura alineación vertical (por si acaso) */
+    width: 30px;
+}
+
+aside{
+    width: 10%;
+    height: 500px;
+}
+
+.fotIMGL{
+    width: 30px;
+}
+
+.fotIMGR{
+    width: 30px;
+    margin-left: 95%;
+}
