@@ -28,7 +28,9 @@ aside{
     width: 10%;
     height: 500px; /*adawsda*/
     text-align: center;
+    float: right;
 }
+
 
 .fotIMGL{
     width: 30px;
